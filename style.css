@@ -15,3 +15,9 @@ body {
 }
 
 /* your CSS below! */
+
+td {
+  display: grid;
+  background-color: lightgray;
+  padding: 45px;
+}
