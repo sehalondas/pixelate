@@ -17,7 +17,19 @@ body {
 /* your CSS below! */
 
 td {
-  display: grid;
+  height: 50px;
+  width: 50px;
   background-color: lightgray;
-  padding: 45px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
 }
